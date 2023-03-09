@@ -1,0 +1,14 @@
+* {margin:0;padding: 0;}
+h1 {
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blue;
+    font-size: 12px;
+}
+input{
+    width: 200px;
+    background-color: rgb(86, 207, 120);
+}
