@@ -2,6 +2,12 @@
 .texto-principal{
     color: dodgerblue;
 }
-.texto-secundario{
-    color: gold;
+
+#texto1{
+    background-color: chartreuse;
+}
+
+#texto2{
+    background-color: blueviolet;
+    font-size: 30px;
 }
