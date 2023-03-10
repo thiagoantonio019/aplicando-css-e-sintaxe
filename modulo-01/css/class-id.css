@@ -1,6 +1,7 @@
 *{margin:0; padding: 0;}
 .texto-principal{
     color: dodgerblue;
+    font-size: 60px;
 }
 
 #texto1{
@@ -9,5 +10,5 @@
 
 #texto2{
     background-color: blueviolet;
-    font-size: 30px;
+    font-size: 50px;
 }
