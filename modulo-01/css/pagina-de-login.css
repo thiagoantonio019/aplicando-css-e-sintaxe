@@ -1,0 +1,15 @@
+*{margin:0; padding: 0; box-sizing:
+    border-box;}/*resetando*/
+
+    #bloco{
+        background-color:azure;
+        width: 12px;
+    }
+    
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 150;
+	line-height: 2.0;
+	color: #ffeba7;
+	background-color: #0d452c;
+}
