@@ -1,0 +1,13 @@
+*{margin:0 ; padding: 0; box-sizing: border-box;}/*resetando*/
+
+#bloco{
+    background-color: #00995d;
+    width: 1220px;
+    height: 50px;
+}
+
+#bloco-2{
+    background-color: #00995d;
+    width: 1200px;
+    height: 25px;
+}

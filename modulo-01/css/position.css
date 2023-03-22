@@ -1,0 +1,13 @@
+*{margin:0; padding: 0;}
+#conteudo{
+    background-color: magenta;
+    height: 600px;
+    width: 600px;
+}
+#texto{
+    background-color: bisque;
+    width: 500px;
+    position: absolute;
+    right: 500px;
+    top: 100px;
+}

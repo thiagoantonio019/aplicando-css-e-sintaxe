@@ -1,0 +1,9 @@
+*{margin:0; padding: box-sizing: 0;}
+body{
+   /* background-color:aquamarine; */
+   background-image: url('../../imagem-css.png');
+   background-repeat: no-repeat;
+   background-position-x: center;
+   background-position-y: center;
+   height: 600px;
+}
